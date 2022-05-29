@@ -2,7 +2,7 @@
 
 <h3>Languages and Tools:</h3>
 <div style="displey: flex">
-<img src="https://cdn-icons-png.flaticon.com/128/5968/5968332.png" width="50px" height="50px"> <img src="https://cdn-icons-png.flaticon.com/128/5968/5968332.png" width="50px" height="50px">
+<img src="https://cdn-icons-png.flaticon.com/128/5968/5968332.png" width="50px" height="50px"> <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/laravel_logo_icon_170314.png" width="50px" height="50px">
 </div>
 - 👋 Hi, I’m Ahmadjon Dadabayev
 - 👀 I’m interested in Programming, data editing, system administrator.
@@ -11,4 +11,3 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Akhmadjonuz&show_icons=true&theme=radical)
 
-![
