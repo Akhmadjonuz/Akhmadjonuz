@@ -17,7 +17,7 @@
                              
 <h2>Connect with me:</h2>
 <div style="displey: flex">   
-<img src="https://raw.githubusercontent.com/codeSTACKr/codeSTACKr/master/img/globe-dark.svg" style="displey: flex">
+<a href="https://dadabayev.uz/"><img src="https://raw.githubusercontent.com/codeSTACKr/codeSTACKr/master/img/globe-dark.svg" style="displey: flex"></a>
 <img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" width="23px">   
 <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="23px">                                                                                         <img src="https://cdn-icons-png.flaticon.com/512/174/174848.png" width="23px">  
                                                                                                 </div>
