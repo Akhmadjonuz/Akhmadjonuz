@@ -1,6 +1,6 @@
 <h1>Hello, I am Ahmadjon Dadabayev!</h1>
 
-<img src="https://img.shields.io/badge/-HTML-e34f26?logo=html5&logoColor=fff"> <a href="https://www.flaticon.com/free-icons/php" title="php icons">Php icons created by Freepik - Flaticon</a>
+<img src="https://img.shields.io/badge/-HTML-e34f26?logo=html5&logoColor=fff"> <img src="https://cdn-icons-png.flaticon.com/128/5968/5968332.png"> 
 
 - 👋 Hi, I’m Ahmadjon Dadabayev
 - 👀 I’m interested in Programming, data editing, system administrator.
