@@ -15,6 +15,7 @@
       
   </ul>
 <hr><br> 
+<h2>Connect with me:</h2>                             
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akhmadjonuz&show_icons=true&theme=radical">
 
 
