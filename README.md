@@ -14,7 +14,7 @@
     <li>⚡ Fun fact: I love to eat all types of unique/lesser-known foods!</li>
       
   </ul>
-<div style="displey: flex"
+<div style="displey: flex">
 <h2>Connect with me:</h2>   
 
 <img src="https://raw.githubusercontent.com/codeSTACKr/codeSTACKr/master/img/globe-dark.svg" style="displey: flex">
