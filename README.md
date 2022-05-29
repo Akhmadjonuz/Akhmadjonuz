@@ -6,6 +6,6 @@
 </div>
 <hr>	
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akhmadjonuz&show_icons=true&theme=radical" width="30px">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akhmadjonuz&show_icons=true&theme=radical" width="560px">
 
 
