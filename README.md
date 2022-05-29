@@ -14,7 +14,7 @@
     <li>⚡ Fun fact: I love to eat all types of unique/lesser-known foods!</li>
       
   </ul>
-<hr><br>
+<hr><br> 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akhmadjonuz&show_icons=true&theme=radical">
 
 
