@@ -1,7 +1,6 @@
 <h1>Hello, I am Ahmadjon Dadabayev!</h1>
 
-
-<i>Languages and Tools:</i>
+<h3>Languages and Tools:</h3><br>
 <img src="https://cdn-icons-png.flaticon.com/128/5968/5968332.png" width="50px" height="50px"> 
 
 - 👋 Hi, I’m Ahmadjon Dadabayev
