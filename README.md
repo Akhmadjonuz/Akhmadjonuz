@@ -22,6 +22,7 @@
 <a href="https://t.me/Akhmadjon"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="23px">          </a>                                                                                <a href="https://facebook.com/dadabayev.uz/"><img src="https://cdn-icons-png.flaticon.com/512/174/174848.png" width="23px">  </a>
                                                                                                 </div>
                                                                                                 <hr>
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akhmadjonuz&show_icons=true&theme=radical">
 
 
