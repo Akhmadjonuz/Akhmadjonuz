@@ -1,4 +1,4 @@
-<b>Hello, I am Oybek Abdujabborov!</b>
+<h1>Hello, I am Ahmadjon Dadabayev!</h1>
 
 <img src="https://img.shields.io/badge/-HTML-e34f26?logo=html5&logoColor=fff"><img src="https://img.shields.io/badge/-CSS-e34f26?logo=CSS&logoColor=fff">
 
