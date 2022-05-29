@@ -19,7 +19,7 @@
 
 <img src="https://raw.githubusercontent.com/codeSTACKr/codeSTACKr/master/img/globe-dark.svg" style="displey: flex">
 <img src="https://raw.githubusercontent.com/codeSTACKr/codeSTACKr/master/img/instagram-dark.svg">   
-<img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="20px">                                                                                               
+<img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="23px">                                                                                               
                                                                                                 </div>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akhmadjonuz&show_icons=true&theme=radical">
 
