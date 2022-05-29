@@ -1,6 +1,6 @@
 <h1>Hello, I am Ahmadjon Dadabayev!</h1>
 
-<img src="https://img.shields.io/badge/-HTML-e34f26?logo=html5&logoColor=fff"> <img src="https://cdn-icons-png.flaticon.com/128/5968/5968332.png"> 
+<img src="https://cdn-icons-png.flaticon.com/128/5968/5968332.png" width="80px" height="80px"> 
 
 - 👋 Hi, I’m Ahmadjon Dadabayev
 - 👀 I’m interested in Programming, data editing, system administrator.
