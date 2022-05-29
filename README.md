@@ -6,7 +6,7 @@
 </div>
 <hr>	
 <h2>I'm a Office Worker, and Web Developer!
-
+<hr><br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akhmadjonuz&show_icons=true&theme=radical">
 
 
