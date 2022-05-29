@@ -14,9 +14,9 @@
     <li>⚡ Fun fact: I love to eat all types of unique/lesser-known foods!</li>
       
   </ul>
-
+<div style="displey: flex"</div>
 <h2>Connect with me:</h2>   
-                             <div style="displey: flex"</div>
+
 <img src="https://raw.githubusercontent.com/codeSTACKr/codeSTACKr/master/img/globe-dark.svg" style="displey: flex">
 <img src="https://raw.githubusercontent.com/codeSTACKr/codeSTACKr/master/img/instagram-dark.svg">                                                                                            
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akhmadjonuz&show_icons=true&theme=radical">
