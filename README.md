@@ -1,6 +1,8 @@
 <h1>Hello, I am Ahmadjon Dadabayev!</h1>
 
-<img src="https://cdn-icons-png.flaticon.com/128/5968/5968332.png" width="80px" height="80px"> 
+
+<i>Languages and Tools:</i>
+<img src="https://cdn-icons-png.flaticon.com/128/5968/5968332.png" width="50px" height="50px"> 
 
 - 👋 Hi, I’m Ahmadjon Dadabayev
 - 👀 I’m interested in Programming, data editing, system administrator.
