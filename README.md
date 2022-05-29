@@ -1,4 +1,4 @@
-<h1>Hello, I am Ahmadjon Dadabayev!</h1>
+<h1>Hello, I am <a href="https://dadabayev.uz" target="_blank">Ahmadjon Dadabayev!</a></h1>
 	
 <h3>Languages and Tools:</h3>
 <div style="displey: flex">
