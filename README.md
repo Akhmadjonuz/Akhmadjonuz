@@ -1,4 +1,4 @@
-<img src="https://img.shields.io/badge/-HTML-e34f26?logo=html5&logoColor=fff">
+<img src="https://img.shields.io/badge/-HTML-e34f26?logo=html5&logoColor=fff"><img src="https://img.shields.io/badge/-CSS-e34f26?logo=CSS&logoColor=fff">
 
 - 👋 Hi, I’m Ahmadjon Dadabayev
 - 👀 I’m interested in Programming, data editing, system administrator.
