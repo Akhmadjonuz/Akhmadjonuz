@@ -6,7 +6,7 @@
 </div>
 <hr>	
 <h2>I'm a Office Worker, and Web Developer!<h2>
-  <br>
+
   <ul style="font-size="16px">
     <li>🌱 I’m learning everything I can all the time 👍</li>
     <li>👯 I’m looking to collaborate with other web developers</li>
