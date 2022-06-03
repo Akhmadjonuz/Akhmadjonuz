@@ -11,7 +11,7 @@
     <li>🌱 I’m learning everything I can all the time 👍</li>
     <li>👯 I’m looking to collaborate with other web developers</li>
     <li>🥅 2022 Goals: Contribute to more open-source projects</li>
-    <li>⚡ Fun fact: I love to eat all types of unique/lesser-knownfoods!</li>
+    <li>⚡ Fun fact: I love to eat all types of unique/lesser-known foods!</li>
       
   </ul>
                              
