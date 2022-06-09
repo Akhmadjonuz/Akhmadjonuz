@@ -8,7 +8,7 @@
 <h2>I'm a Office Worker, and Web Developer!<h2>
 <br>
   <ul style="font-size="12px">
-    <li>🌱 I’m learning everything I can all the time 👍</li>
+    <li>🌱 I'm learning everything I can all the time 👍</li>
     <li>👯 I’m looking to collaborate with other web developers</li>
     <li>🥅 2022 Goals: Contribute to more open-source projects</li>
     <li>⚡ Fun fact: I love to eat all types of unique/lesser-known foods!</li>
