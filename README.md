@@ -24,5 +24,6 @@
                                                                                                 <hr>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akhmadjonuz&show_icons=true&theme=radical">
-
+<img src="https://github-readme-stats.vercel.app/api?username=akhmadjonuz&count_private=false&show_icons=true&theme=radical">
+                                                                                                                   
 
